@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  SysMonClient.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 72 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SysMonTest.vcxproj -> C:\Users\INSECT\source\repos\SysMon\x64\Release\SysMonClient.exe
