@@ -1,0 +1,11 @@
+﻿  Building 'SysMon' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  pch.cpp
+  FastMutex.cpp
+  SysMon.cpp
+  Generating Code...
+  SysMon.vcxproj -> C:\Users\INSECT\source\repos\SysMon\x64\Release\SysMon.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\INSECT\source\repos\SysMon\x64\Release\SysMon.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
